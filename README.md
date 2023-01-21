@@ -1,0 +1,1 @@
+# VS-Hangs-On-Open-Folder-Bug-Report

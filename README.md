@@ -27,3 +27,8 @@ This repository contains a synthetic example for demonstration purposes, but the
     - `Current source control plug-in: Test Source Control Provider`.
 9. `File -> Open -> Folder...`.
 10. Select any folder.
+
+<h2>Environment</h2>
+
+Microsoft Visual Studio Professional 2022 Version 17.4.4  
+Windows 10 Version 22H2 OS Build 19045.2486

@@ -1,1 +1,1 @@
-# VS-Hangs-On-Open-Folder-Bug-Report
+# Visual Studio Report

@@ -4,6 +4,8 @@
 
 Visual Studio hangs on `Open Folder` when the `Test Explorer` window is open.
 
+![alt text](https://github.com/deniskovalchuk/VS-Hangs-On-Open-Folder-Bug-Report/blob/4e2541aaddb21f32fa0767e328ec783c934087d6/Images/VisualStudioHangsOnOpenFolder.png)
+
 It occurs when [IVsSccFolderProviderBinder.SccBindingsChanged](https://learn.microsoft.com/en-us/dotnet/api/microsoft.visualstudio.shell.sccintegration.ivssccfolderproviderbinder.sccbindingschanged?view=visualstudiosdk-2022) event is called from [IVsSolutionEvents7.OnAfterOpenFolder](https://learn.microsoft.com/en-us/dotnet/api/microsoft.visualstudio.shell.interop.ivssolutionevents7.onafteropenfolder?view=visualstudiosdk-2022#microsoft-visualstudio-shell-interop-ivssolutionevents7-onafteropenfolder(system-string)) method.
 
 This repository contains a synthetic example for demonstration purposes, but the problem was originally reproduced on a real-world source control plug-in.

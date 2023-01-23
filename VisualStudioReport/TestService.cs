@@ -30,6 +30,7 @@ namespace VisualStudioReport
         {
             if (SccBindingsChanged != null)
             {
+                // This call causes Visual Studio to hang.
                 SccBindingsChanged(this, new SccBindingChangedEventArgs());
             }
         }

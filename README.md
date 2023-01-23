@@ -2,7 +2,7 @@
 
 <h2>Problem description</h2>
 
-Visual Studio 2022 hangs on `Open Folder` when the `Test Explorer` window is open.
+Visual Studio 2022 hangs on `Open Folder` when `Test Explorer` is open.
 
 ![alt text](https://github.com/deniskovalchuk/VS-Hangs-On-Open-Folder-Bug-Report/blob/b53219dd8e0d1200ce952e268eb7e198a2306b0a/Images/VisualStudioHangsOnOpenFolder.png)
 

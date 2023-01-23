@@ -33,4 +33,5 @@ Windows 10 Version 22H2 OS Build 19045.2486
 
 <h2>Notes</h2>
 
-1. This problem is not reproduced with Visual Studio 2019 Version 16.11.23.
+1. This problem is not reproduced with Visual Studio 2022 Version 17.0.0.
+2. This problem is not reproduced with Visual Studio 2019 Version 16.11.23.

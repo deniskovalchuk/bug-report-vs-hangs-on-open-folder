@@ -12,7 +12,7 @@ This repository contains a synthetic example for demonstration purposes, but the
 
 <h2>Steps to reproduce</h2>
 
-1. Initial settings for Visual Studio Experimental Instance.
+1. Initial settings for Visual Studio Experimental Instance:
     - `Tools -> Options... -> Environment`.
         - `On startup, open: Empty environment`.
     - `View -> Test Explorer`.
@@ -20,11 +20,11 @@ This repository contains a synthetic example for demonstration purposes, but the
 2. Download the project.
 3. Open the solution in Visual Studio.
 4. `Debug -> Start Debugging (F5)`.
-5. In the opened experimental instance.
+5. In the opened Visual Studio Experimental Instance:
     - `Tools -> Options... -> Source Control`.
         - `Current source control plug-in: Test Source Control Provider`.
-6. `File -> Open -> Folder...`.
-7. Select any folder.
+    - `File -> Open -> Folder...`.
+    - Select any folder.
 
 <h2>Environment</h2>
 

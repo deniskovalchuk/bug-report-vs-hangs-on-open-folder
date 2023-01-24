@@ -35,3 +35,7 @@ Windows 10 Version 22H2 OS Build 19045.2486
 
 1. This problem does not reproduce with Visual Studio 2022 Version 17.0.0.
 2. This problem does not reproduce with Visual Studio 2019 Version 16.11.23.
+
+<h2>References</h2>
+
+https://developercommunity.visualstudio.com/t/VS2022-hangs-on-Open-Folder-when-Test-Ex/10259587
